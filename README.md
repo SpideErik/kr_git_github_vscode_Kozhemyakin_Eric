@@ -66,6 +66,9 @@
 [07]([alt text](screenshots/image-5.png)
 8. Итоговая система Git Graph
 [08]([alt text](screenshots/image-6.png)
+9. Git Graph после конфликта
+[08]([alt text](screenshots/image-7.png)
+
 
 ## Разница между Fetch и Pull
 Fetch проверяет и загружает информацию о новых коммитах из GitHub, но не меняет мои рабочие файлы. Pull загружает изменения и сразу применяет их к текущей ветке. 
