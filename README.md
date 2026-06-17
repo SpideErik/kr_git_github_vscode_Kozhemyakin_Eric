@@ -53,19 +53,19 @@
 
 ## Скриншоты
 1. Созданный репозиторий
-![01](![alt text](screenshots/image.png))
+![01](screenshots/image.png)
 2. Инициализированный репозиторий
-![02](![alt text](screenshots/image-1.png))
+![02](screenshots/image-1.png)
 3. Первый коммит
-![03](![alt text](screenshots/image-2.png))
+![03](screenshots/image-2.png)
 4. Репозиторий на github
-![04](![alt text](screenshots/image-3.png))
+![04](screenshots/image-3.png)
 5. Созданная ветка
-![05](![alt text](screenshots/image-4.png))
+![05](screenshots/image-4.png)
 7. Выполнение Fetch / Pull
-[07](![alt text](screenshots/image-5.png))
+[07]([alt text](screenshots/image-5.png)
 8. Итоговая система Git Graph
-[08](![alt text](screenshots/image-6.png))
+[08]([alt text](screenshots/image-6.png)
 
 ## Разница между Fetch и Pull
 Fetch проверяет и загружает информацию о новых коммитах из GitHub, но не меняет мои рабочие файлы. Pull загружает изменения и сразу применяет их к текущей ветке. 
